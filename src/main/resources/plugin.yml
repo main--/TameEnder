@@ -1,0 +1,6 @@
+author: main()
+database: true
+description: Tame those Endermen!
+main: me.main__.tameender.TameEnder
+name: TameEnder
+version: '1.0'
